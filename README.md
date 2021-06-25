@@ -10,7 +10,7 @@ Y la libreria de OpenPay del lado de ios se encuentra en dicha carpeta, asi como
 Para utilizar este repo:
 
     • Download repo
-    • cd red-potencia-app-main
+    • cd red-potencia-app-ely
     • nvm use v12.19.0 (si se esta usando una version anterior de npm)
     • npm i react-native-cli
     • yarn
